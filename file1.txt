@@ -1,3 +1,2 @@
 Hello All, Welcome to GIT class.
 Second line added
-Third line added

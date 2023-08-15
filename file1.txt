@@ -1,2 +1,2 @@
 Hello All, Welcome to GIT class.
-Second line added
+Second line added,today is second day of git

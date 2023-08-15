@@ -1,2 +1,3 @@
 Welcome to GIT Class
 Happy Independence Day to ALL
+Today we created new repo called awsdevops2023

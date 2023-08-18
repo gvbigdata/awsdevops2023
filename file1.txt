@@ -1,3 +1,4 @@
 Hello All, Welcome to GIT class.
 Second line added,today is second day of git
 updated in file-1
+Creating a conflict in user-4
